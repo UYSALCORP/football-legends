@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/footbal-legends/static/css/main.d0aee7b5.css",
-    "main.js": "/footbal-legends/static/js/main.ae9f0de9.js",
-    "static/media/bg-image.jpg": "/footbal-legends/static/media/bg-image.f480b7e973caae10e6cb.jpg",
-    "static/media/logo.png": "/footbal-legends/static/media/logo.b917e3d53f8bec39d488.png",
-    "index.html": "/footbal-legends/index.html",
-    "main.d0aee7b5.css.map": "/footbal-legends/static/css/main.d0aee7b5.css.map",
-    "main.ae9f0de9.js.map": "/footbal-legends/static/js/main.ae9f0de9.js.map"
+    "main.css": "/football-legends/static/css/main.4f9cd7d7.css",
+    "main.js": "/football-legends/static/js/main.b1432629.js",
+    "static/media/bg-image.jpg": "/football-legends/static/media/bg-image.f480b7e973caae10e6cb.jpg",
+    "static/media/logo.png": "/football-legends/static/media/logo.b917e3d53f8bec39d488.png",
+    "index.html": "/football-legends/index.html",
+    "main.4f9cd7d7.css.map": "/football-legends/static/css/main.4f9cd7d7.css.map",
+    "main.b1432629.js.map": "/football-legends/static/js/main.b1432629.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0aee7b5.css",
-    "static/js/main.ae9f0de9.js"
+    "static/css/main.4f9cd7d7.css",
+    "static/js/main.b1432629.js"
   ]
 }
